@@ -1,2 +1,5 @@
 # Datathon2020-NEU
-Datathon 2020
+Datathon submission for
+Chi Zhang (zhang.chi13@northeastern.edu)
+Haolin Li (li.haolin@northeastern.edu)
+Hongsong Li (li.hongs@northeastern.edu)
